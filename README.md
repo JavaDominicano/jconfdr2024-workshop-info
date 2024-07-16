@@ -17,7 +17,7 @@ Esto agilizará su jornada y le ayudará a sacarle el máximo provecho.
 
 ## Workshops / Talleres
 
-1. ### Infraestructura como código para todos
+### Infraestructura como código para todos
    
 * Tener una cuenta de Digital Ocean. Si no la tienes, puedes registrarte aqui https://m.do.co/c/823262eb863f y tener un bono de $200 por 60 días.
 
