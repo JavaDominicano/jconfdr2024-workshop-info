@@ -6,7 +6,7 @@
 There are laptop config and setup requirements for your workshop. Please take a look at these here. PLEASE DOWNLOAD ANY REQUIRED SOFTWARE  BEFORE YOU CAN COME ONSITE. 
 This will expedite your day and help you get the most out of it.
 
-## Spanish:
+## Spanish
 
 ### Requisitos para los talleres:
 
@@ -25,7 +25,7 @@ Esto agilizará su jornada y le ayudará a sacarle el máximo provecho.
 
 * Instalar java y maven con la herramienta previamente instalada. 
 
-  ```
+ ```
   sdk install java 21.0.3-tem 
   sdk install maven 3.9.4
  ```
@@ -37,11 +37,15 @@ Esto agilizará su jornada y le ayudará a sacarle el máximo provecho.
 docker image pull hectorvent/iac-for-everyone
 ```
 
-**Nota:** Vamos a usar una imagen de docker para agilizar y evitar problemas que pueden aparecer en nuestros entornos. Esta imagen contiene: Ansible, OpenTofu y el cliente de Digital Ocean dotcl.
+**Nota:**
+ Vamos a usar una imagen de docker para agilizar y evitar problemas que pueden aparecer en nuestros entornos. Esta imagen contiene: **Ansible**, **OpenTofu** y el cliente de Digital Ocean **dotcl**.
 
-3. [Unlocking the Power of Multitenancy (Quarkus and Vaadin Flow)](https://github.com/JavaDominicano/quarkus-vaadin-multi-tenancy)
+### Unlocking the Power of Multitenancy (Quarkus and Vaadin Flow)
+[Repo](https://github.com/JavaDominicano/quarkus-vaadin-multi-tenancy)
 
-4. [Unlock the potential of Jakarta REST to build RESTful Web Services]()
+### Unlock the potential of Jakarta REST to build RESTful Web Services
+[Repo]()
 
-5. [Integración de Spring Boot con PayPal y Buenas Prácticas](https://github.com/geovannymcode/workshop-participant/tree/main/mod_01_configuracion_entorno)
-   * [GeoLabs Bookstore Workshop Guide](https://geovannymcode.github.io/geolabs-bookstore.github.io)
+### Integración de Spring Boot con PayPal y Buenas Prácticas
+* [Repo](https://github.com/geovannymcode/workshop-participant/tree/main/mod_01_configuracion_entorno)
+* [GeoLabs Bookstore Workshop Guide](https://geovannymcode.github.io/geolabs-bookstore.github.io)
