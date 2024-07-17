@@ -44,7 +44,15 @@ docker image pull hectorvent/iac-for-everyone
 [Repo](https://github.com/JavaDominicano/quarkus-vaadin-multi-tenancy)
 
 ### Unlock the potential of Jakarta REST to build RESTful Web Services
-[Repo]()
+Este es el repositorio para el taller
+https://github.com/ecabrerar/workshop-participant/tree/jconf-dominicana-2024
+
+Es un fork del repositorio original donde encontrarás las instrucciones en inglés y español.
+
+Aquí encontrarás las instrucciones para instalar las herramientas para el taller:
+https://github.com/ecabrerar/workshop-participant/blob/jconf-dominicana-2024/mod_01_environment_setup/README_ES.md
+
+Debes tratar de instalar todos o la mayoría de herramientas antes del día del taller.
 
 ### Integración de Spring Boot con PayPal y Buenas Prácticas
 * [Repo](https://github.com/geovannymcode/workshop-participant/tree/main/mod_01_configuracion_entorno)
